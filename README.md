@@ -10,3 +10,4 @@ Si hay empate, debe devolver la primera palabra en la lista de parámetros.
 4. Comparar la longitud de la segunda palabra es menor a la longitud de la primera y tercera palabra, si esto resulta verdadero, regresar
 5.
 6. Cometario extra, que no es para completar el pseudocódigo. Es de asombro!
+7. Configurando user.name and user.email
